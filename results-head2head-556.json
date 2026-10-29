@@ -1,0 +1,27 @@
+{
+  "benign_gap_ci": [
+    0.0,
+    0.0
+  ],
+  "benign_naive_joint_rate": 1.0,
+  "benign_traced_joint_rate": 1.0,
+  "joint_gain_ci": [
+    1.0,
+    1.0
+  ],
+  "n_direct": 200,
+  "n_group": 300,
+  "naive_failures": 300,
+  "naive_joint_rate": 0.0,
+  "naive_rnwa_rate": 1.0,
+  "naive_rnwa_share_of_failures": 1.0,
+  "naive_value_rate": 1.0,
+  "rnwa_gap_ci": [
+    1.0,
+    1.0
+  ],
+  "seed": 556,
+  "traced_joint_rate": 1.0,
+  "traced_rnwa_rate": 0.0,
+  "traced_value_rate": 1.0
+}
